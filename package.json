@@ -1,0 +1,15 @@
+{
+  "name": "me.goorm.material-replacer",
+  "displayName": "Material Replacer",
+  "version": "placeholder",
+  "url": "https://github.com/weasel-club/MaterialReplacer",
+  "author": {
+    "name": "goorm",
+    "email": "cstria0106@gmail.com",
+    "url": "https://github.com/cstria0106"
+  },
+  "description": "Replace material easily",
+  "unity": "2019.4",
+  "dependencies": {},
+  "vpmDependencies ": {}
+}
